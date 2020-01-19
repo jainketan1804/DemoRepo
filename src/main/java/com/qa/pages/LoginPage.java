@@ -6,6 +6,7 @@ public class LoginPage {
 	{
 		System.out.println("Login_Page1");
 		System.out.println("Login Pag2");
+		System.out.println("Login Page34");
 	}
 
 }
